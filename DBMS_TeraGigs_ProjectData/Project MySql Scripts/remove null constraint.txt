@@ -1,0 +1,47 @@
+
+ALter table teragigsdb.header_mstr
+change control_num control_num  varchar(10) null;
+
+ALter table teragigsdb.header_mstr
+change sender_code sender_code varchar(10) null,
+change receiver_code receiver_code varchar(10) null;
+
+ALter table teragigsdb.header_mstr
+change transmission_date transmission_date date null;
+
+Alter table teragigsdb.header_mstr
+drop column invoice_header_number,
+drop column invoice_header_supplier;
+desc teragigsdb.header_mstr;
+
+Alter table address_mstr
+change type type varchar(10) null,
+change address_line address_line varchar(10) null,
+change zip zip int(5) null;
+desc teragigsdb.address_mstr;
+
+Alter table teragigsdb.detail
+change item_number item_number varchar(10) null,
+change quantity quantity int(11) null,
+change line_price line_price decimal(10,2) null;
+
+desc teragigsdb.detail;
+
+Alter table teragigsdb.invoice_info
+change bil_lto_code bill_to_code varchar(10);
+
+Alter table teragigsdb.invoice_info
+change bill_to_code bill_to_code varchar(10) null,
+change purchase_order_number purchase_order_number varchar(10) null,
+change date date date null,
+change remarks remarks varchar(10) null;
+desc teragigsdb.invoice_info;
+
+Alter table teragigsdb.summary_mstr
+change invoice_total invoice_total varchar(45) null,
+change total_tax total_tax varchar(45) null;
+desc summary_mstr;
+
+ALter table teragigsdb.supplier_mstr
+change ship_to ship_to varchar(10) null;
+desc teragigsdb.supplier_mstr;

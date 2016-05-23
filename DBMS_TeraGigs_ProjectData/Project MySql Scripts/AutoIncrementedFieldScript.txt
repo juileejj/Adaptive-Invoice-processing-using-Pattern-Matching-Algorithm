@@ -1,0 +1,68 @@
+/*table_mstr*/
+insert into table_mstr(tbl_id,tbl_name) values(1,'address_mstr') ;
+insert into table_mstr(tbl_id,tbl_name) values(2,'supplier_mstr') ;
+insert into table_mstr(tbl_id,tbl_name) values(3,'detail') ;
+insert into table_mstr(tbl_id,tbl_name) values(4,'zipcode_info') ;
+insert into table_mstr(tbl_id,tbl_name) values(5,'header_mstr') ;
+insert into table_mstr(tbl_id,tbl_name) values(6,'invoice_header') ;
+insert into table_mstr(tbl_id,tbl_name) values(7,'item_mstr') ;
+insert into table_mstr(tbl_id,tbl_name) values(8,'summary_mstr') ;
+
+
+
+/*column_mstr*/
+use dbteragigs;
+insert into column_mstr(col_name,col_tab_id) values('type',1);
+insert into column_mstr(col_name,col_tab_id) values('sender_code',1);
+insert into column_mstr(col_name,col_tab_id) values('address_line',1);
+insert into column_mstr(col_name,col_tab_id) values('zip',1);
+insert into column_mstr(col_name,col_tab_id) values('phone',1);
+insert into column_mstr(col_name,col_tab_id) values('email',1);
+
+insert into column_mstr(col_name,col_tab_id) values('sender_code',2);
+insert into column_mstr(col_name,col_tab_id) values('ship_to',2);
+insert into column_mstr(col_name,col_tab_id) values('taxable',2);
+insert into column_mstr(col_name,col_tab_id) values('name',2);
+insert into column_mstr(col_name,col_tab_id) values('salesperson',2);
+
+insert into column_mstr(col_name,col_tab_id) values('invoice_num',3);
+insert into column_mstr(col_name,col_tab_id) values('line_number',3);
+insert into column_mstr(col_name,col_tab_id) values('item_number',3);
+insert into column_mstr(col_name,col_tab_id) values('quantity',3);
+insert into column_mstr(col_name,col_tab_id) values('line_price',3);
+
+insert into column_mstr(col_name,col_tab_id) values('zip',4);
+insert into column_mstr(col_name,col_tab_id) values('city',4);
+insert into column_mstr(col_name,col_tab_id) values('state',4);
+insert into column_mstr(col_name,col_tab_id) values('country',4);
+
+insert into column_mstr(col_name,col_tab_id) values('transmission_date',5);
+insert into column_mstr(col_name,col_tab_id) values('invoice_num',5);
+insert into column_mstr(col_name,col_tab_id) values('control_num',5);
+insert into column_mstr(col_name,col_tab_id) values('sender_code',5);
+insert into column_mstr(col_name,col_tab_id) values('receiver_code',5);
+insert into column_mstr(col_name,col_tab_id) values('invoice_header_number',5);
+insert into column_mstr(col_name,col_tab_id) values('invoice_header_supplier',5);
+
+insert into column_mstr(col_name,col_tab_id) values('invoice_num',6);
+insert into column_mstr(col_name,col_tab_id) values('sender_code',6);
+insert into column_mstr(col_name,col_tab_id) values('bil_lto_code',6);
+insert into column_mstr(col_name,col_tab_id) values('purchase_order_number',6);
+insert into column_mstr(col_name,col_tab_id) values('date',6);
+insert into column_mstr(col_name,col_tab_id) values('remarks',6);
+
+insert into column_mstr(col_name,col_tab_id) values('item_number',7);
+insert into column_mstr(col_name,col_tab_id) values('unit_of_measurement',7);
+insert into column_mstr(col_name,col_tab_id) values('price_per_qty',7);
+
+insert into column_mstr(col_name,col_tab_id) values('invoice_num',8);
+insert into column_mstr(col_name,col_tab_id) values('invoice_total',8);
+insert into column_mstr(col_name,col_tab_id) values('total_tax',8);
+insert into column_mstr(col_name,col_tab_id) values('discount_pct',8);
+insert into column_mstr(col_name,col_tab_id) values('discount_amount',8);
+insert into column_mstr(col_name,col_tab_id) values('payment_duedate',8);
+insert into column_mstr(col_name,col_tab_id) values('tax_pct',8);
+
+/*
+insert into column_mstr(col_name,col_tab_id) values(,);
+insert into document_mstr(doc_id) values();*/

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<INVOICE>
+	<address>
+	     <SoldTo>66778899</SoldTo>
+		 <SenderCode>21501287</SenderCode>
+		 <AddressLine>15B Smith St</AddressLine>
+		 <City>Boston</City>
+		 <State>Massachusetts</State>
+		 <Country>USA</Country>
+		 <Zip>02120</Zip>
+		 <Phone>9898767767</Phone>
+		 <Email>test@gmail.com</Email>
+	</address>
+</INVOICE>	
+</data-set>	

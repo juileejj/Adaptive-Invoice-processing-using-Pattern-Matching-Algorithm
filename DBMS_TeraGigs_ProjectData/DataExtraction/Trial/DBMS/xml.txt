@@ -1,0 +1,5 @@
+<Invoice>
+<DocumentSource>Supplier</DocumentSource>
+<DocumentType>Invoice</DocumentType>
+<DocumentVersion>1.0.0</DocumentVersion>
+</Invoice>

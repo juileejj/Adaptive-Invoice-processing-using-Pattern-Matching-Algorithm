@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<RemmitTo>
+		<Name>Bank Of America</Name>
+		<AddressLine1>ABC Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26789</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789324</PhoneNumber>
+		<EmailID>Bank Of America.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Citi Bank</Name>
+		<AddressLine1>DEF Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26790</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789325</PhoneNumber>
+		<EmailID>Citi Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Santander Bank</Name>
+		<AddressLine1>GHI Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26791</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789326</PhoneNumber>
+		<EmailID>Santander Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Wells Fargo</Name>
+		<AddressLine1>JKL Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26792</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789327</PhoneNumber>
+		<EmailID>Wells Fargo.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Bank Of America</Name>
+		<AddressLine1>ABC Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26793</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789328</PhoneNumber>
+		<EmailID>Bank Of America.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Citi Bank</Name>
+		<AddressLine1>DEF Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26794</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789329</PhoneNumber>
+		<EmailID>Citi Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Santander Bank</Name>
+		<AddressLine1>GHI Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26795</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789330</PhoneNumber>
+		<EmailID>Santander Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Wells Fargo</Name>
+		<AddressLine1>JKL Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26796</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789331</PhoneNumber>
+		<EmailID>Wells Fargo.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Bank Of America</Name>
+		<AddressLine1>ABC Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26797</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789332</PhoneNumber>
+		<EmailID>Bank Of America.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Citi Bank</Name>
+		<AddressLine1>DEF Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26798</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789333</PhoneNumber>
+		<EmailID>Citi Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Santander Bank</Name>
+		<AddressLine1>GHI Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26799</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789334</PhoneNumber>
+		<EmailID>Santander Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Wells Fargo</Name>
+		<AddressLine1>JKL Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26800</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789335</PhoneNumber>
+		<EmailID>Wells Fargo.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Bank Of America</Name>
+		<AddressLine1>ABC Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26801</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789336</PhoneNumber>
+		<EmailID>Bank Of America.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Citi Bank</Name>
+		<AddressLine1>DEF Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26802</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789337</PhoneNumber>
+		<EmailID>Citi Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Santander Bank</Name>
+		<AddressLine1>GHI Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26803</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789338</PhoneNumber>
+		<EmailID>Santander Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Wells Fargo</Name>
+		<AddressLine1>JKL Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26804</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789339</PhoneNumber>
+		<EmailID>Wells Fargo.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Bank Of America</Name>
+		<AddressLine1>ABC Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26805</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789340</PhoneNumber>
+		<EmailID>Bank Of America.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Citi Bank</Name>
+		<AddressLine1>DEF Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26806</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789341</PhoneNumber>
+		<EmailID>Citi Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Santander Bank</Name>
+		<AddressLine1>GHI Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26807</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789342</PhoneNumber>
+		<EmailID>Santander Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Wells Fargo</Name>
+		<AddressLine1>JKL Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26808</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789343</PhoneNumber>
+		<EmailID>Wells Fargo.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Bank Of America</Name>
+		<AddressLine1>ABC Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26809</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789344</PhoneNumber>
+		<EmailID>Bank Of America.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Citi Bank</Name>
+		<AddressLine1>DEF Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26810</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789345</PhoneNumber>
+		<EmailID>Citi Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Santander Bank</Name>
+		<AddressLine1>GHI Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26811</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789346</PhoneNumber>
+		<EmailID>Santander Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Wells Fargo</Name>
+		<AddressLine1>JKL Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26812</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789347</PhoneNumber>
+		<EmailID>Wells Fargo.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Bank Of America</Name>
+		<AddressLine1>ABC Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26813</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789348</PhoneNumber>
+		<EmailID>Bank Of America.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Citi Bank</Name>
+		<AddressLine1>DEF Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26814</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789349</PhoneNumber>
+		<EmailID>Citi Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Santander Bank</Name>
+		<AddressLine1>GHI Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26815</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789350</PhoneNumber>
+		<EmailID>Santander Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Wells Fargo</Name>
+		<AddressLine1>JKL Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26816</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789351</PhoneNumber>
+		<EmailID>Wells Fargo.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Bank Of America</Name>
+		<AddressLine1>ABC Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26817</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789352</PhoneNumber>
+		<EmailID>Bank Of America.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Citi Bank</Name>
+		<AddressLine1>DEF Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26818</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789353</PhoneNumber>
+		<EmailID>Citi Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Santander Bank</Name>
+		<AddressLine1>GHI Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26819</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789354</PhoneNumber>
+		<EmailID>Santander Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Wells Fargo</Name>
+		<AddressLine1>JKL Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26820</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789355</PhoneNumber>
+		<EmailID>Wells Fargo.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Bank Of America</Name>
+		<AddressLine1>ABC Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26821</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789356</PhoneNumber>
+		<EmailID>Bank Of America.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Citi Bank</Name>
+		<AddressLine1>DEF Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26822</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789357</PhoneNumber>
+		<EmailID>Citi Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Santander Bank</Name>
+		<AddressLine1>GHI Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26823</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789358</PhoneNumber>
+		<EmailID>Santander Bank.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Wells Fargo</Name>
+		<AddressLine1>JKL Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26824</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789359</PhoneNumber>
+		<EmailID>Wells Fargo.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Bank Of America</Name>
+		<AddressLine1>ABC Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26825</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789360</PhoneNumber>
+		<EmailID>Bank Of America.com</EmailID>
+	</RemmitTo>
+	<RemmitTo>
+		<Name>Citi Bank</Name>
+		<AddressLine1>DEF Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26826</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789361</PhoneNumber>
+		<EmailID>Citi Bank.com</EmailID>
+	</RemmitTo>
+</data-set>

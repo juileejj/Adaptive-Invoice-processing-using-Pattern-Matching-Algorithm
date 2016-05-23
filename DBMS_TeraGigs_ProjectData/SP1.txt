@@ -1,0 +1,47 @@
+CREATE DEFINER=`root`@`localhost` PROCEDURE `SP_INSERT_INVOICE_DATA`(IN tablename VARCHAR(20),
+IN columnname VARCHAR(20),IN data VARCHAR(50),IN STATUS VARCHAR(5))
+BEGIN
+DECLARE TABLEID INT;
+declare tempquery varchar(200); 
+DECLARE final_table_name varchar(50);
+DECLARE COLUMNNAME VARCHAR(50);
+SET @TABLEID=(SELECT T.TBL_ID  FROM TABLE_MSTR T WHERE T.TBL_NAME=tablename);
+
+IF(TABLEID is not null)
+THEN
+set @final_table_name=tablename;
+/*Pattern matching*/
+SET @COLUMNNAME=(SELECT C.COL_NAME FROM COLUMN_MSTR C
+WHERE C.COL_TAB_ID=TABLEID
+AND (C.COL_NAME like columnname or
+C.COL_NAME like concat('%',columnname) or
+C.COL_NAME like concat(columnname,'%') or
+C.COL_NAME like concat('%',columnname,'%')));
+IF(COLUMNNAME IS NULL)
+THEN 
+SET @COLUMNNAME=(SELECT C.COL_NAME FROM COLUMN_MSTR C 
+where 
+SUBSTRING(soundex(C.COL_NAME),1,3) = SUBSTRING(soundex(columnname),1,3));
+END IF;
+
+/*new column creation*/
+/*IF(COLUMNNAME IS NULL)
+THEN
+ALTER TABLE final_table_name
+ADD columnname varchar(50);
+INSERT INTO COLUMN_MSTR(COL_NAME,TBL_ID) VALUES(columnname,TABLEID);
+end if;
+/*table update*/
+IF(STATUS='NEW')
+then
+set @tempquery=concat('insert into', @final_table_name,'(',@COLUMNNAME,')values(',@data,')');
+prepare stmt1 from @tempquery;
+execute stmt1;
+deallocate prepare stmt1;
+END IF;
+/*elseif(STATUS='OLD')
+then
+update tablename set COLUMNNAME=data where ; 
+end if;*/
+END IF;
+END

@@ -1,0 +1,3 @@
+validation for the same network 
+validation on all the pages
+validation for the same set of devices

@@ -1,0 +1,51 @@
+<INVOICE>
+<Header>
+	<Invoice>1000</Invoice>
+	<TransmissionDate>2015-05-09</TransmissionDate>
+	<ControlNumber>1</ControlNumber>
+	<Sender>44556677</Sender>
+	<Receiver>11223344</Receiver>
+</Header>
+<Address>
+	<sender>44556677</sender>
+	<type>BillTo</type>
+	<addressline>75 St.</addressline>
+	<zip>02120</zip>
+    <phone>6175524359</phone>
+    <email>tgmailcom</email>
+</Address>
+<InvoiceInformation>
+	<Invoice>1000</Invoice>
+	<Sender>44556677</Sender>
+	<BillToCode>347657</BillToCode>
+	<PurchaseOrder>74</PurchaseOrder>
+	<Date>2015-05-09</Date>
+	<Remarks>OK</Remarks>
+</InvoiceInformation>
+<DetailInvoice>
+	<Invoice>1000</Invoice>
+	<LineNumber>1</LineNumber>
+	<Item>1</Item>
+	<Quantity>10</Quantity>
+	<Price>100.00</Price>
+</DetailInvoice>
+<ItemInfo>
+	<Item>1</Item>
+	<UnitOfMeasurement>PC</UnitOfMeasurement>
+	<PricePerQuantity>10.00</PricePerQuantity>
+</ItemInfo>
+<SupplierInfo>
+	<Sender>44556677</Sender>
+	<ShipTo>347657</ShipTo>
+	<Taxable>1</Taxable>
+	<Name>Deepti</Name>
+	<SalesPerson>Bhavik</SalesPerson>
+</SupplierInfo>
+<Summary>
+	<Invoice>1000</Invoice>
+	<Total>100.00</Total>
+	<Tax>10.00</Tax>
+	<DiscountAmount>0.00</DiscountAmount>
+	<DueDate>2015-12-09</DueDate>
+</Summary>
+</INVOICE>		

@@ -1,0 +1,10 @@
+<Invoice>
+	<headerinformation>
+		<DocumentType>INVOICE</DocumentType>
+		<DocumentVersion>1</DocumentVersion>
+		<Organization>ABN Amro</Organization>
+		<SupplierNumber>2150</SupplierNumber>
+		<InvoiceNumber>345678</InvoiceNumber>
+		<InvoiceDate>40787</InvoiceDate>
+	</headerinformation>
+</Invoice>

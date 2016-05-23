@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<INVOICE xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<header>
+		<TransmissionDate>TransmissionDate</TransmissionDate>
+		<InvoiceNumber>InvoiceNumber</InvoiceNumber>
+		<ControlNumber>ControlNumber</ControlNumber>
+		<SenderCode>SenderCode</SenderCode>
+		<ReceiverCode>ReceiverCode</ReceiverCode>
+	</header>
+</INVOICE>

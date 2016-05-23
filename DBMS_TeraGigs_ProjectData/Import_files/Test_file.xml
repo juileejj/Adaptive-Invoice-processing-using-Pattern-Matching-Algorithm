@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<INVOICE>
+	<header>
+		<TransmissionDate>20151225</TransmissionDate>
+		<InvoiceNumber>10000</InvoiceNumber>
+		<ControlNumber>1</ControlNumber>
+		<SenderCode>21501287</SenderCode>
+		<ReceiverCode>34567898</ReceiverCode>
+    </header>
+	<address>
+	     <SoldTo>66778899</SoldTo>
+		 <SenderCode>21501287</SenderCode>
+		 <AddressLine>15B Smith St</AddressLine>
+		 <City>Boston</City>
+		 <State>Massachusetts</State>
+		 <Country>USA</Country>
+		 <Zip>02120</Zip>
+		 <Phone>9898767767</Phone>
+		 <Email>test@gmail.com</Email>
+	</address>
+	<address>
+         <BillTo>66778899</BillTo>
+		 <SenderCode>21501287</SenderCode>
+		 <AddressLine>15B Smith St</AddressLine>
+		 <City>Boston</City>
+		 <State> 	Massachusetts</State>
+		 <Country>USA</Country>
+		 <Zip>02120</Zip>
+		 <Phone>9898767767</Phone>
+		 <Email>test@gmail.com</Email>
+	</address>
+	<address>
+	     <ShipTo>66778899</ShipTo>
+         <SenderCode>21501287</SenderCode>
+		 <AddressLine>15B Smith St</AddressLine>
+		 <City>Boston</City>
+		 <State>Massachusetts</State>
+		 <Country>USA</Country>
+		 <Zip>02120</Zip>
+		 <Phone>9898767767</Phone>
+		 <Email>test@gmail.com</Email>
+	</address>
+	<invoiceHeader>
+         <SenderCode>123<SenderCode>
+		 <BilltoCode>66778899</BilltoCode>
+         <PurchaseOrderNumber>PO123456</PurchaseOrderNumber>
+		 <InvoiceDate>20151225</InvoiceDate>
+    </invoiceHeader>
+    <detail>
+         <LineNumber>1</LineNumber>
+         <ItemNumber>1<ItemNumber>
+         <UnitOfMeasurement>ea</UnitOfMeasurement>
+         <PricePerQuantity>12.00</PricePerQuantity>
+         <Quantity>5</Quantity>
+    </detail>
+	<Summary>
+		<Total>154.87</Total>
+		<Tax>4.7</Tax>
+		<DiscountPercentage>10</DiscountPercentage>
+		<Amount>14</Amount>
+		<PaymentDueDate>150509</PaymentDueDate>
+	</Summary>
+</INVOICE>	

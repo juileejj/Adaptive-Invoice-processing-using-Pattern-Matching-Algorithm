@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<SoldTo>
+		<Name>Wockhardt</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21020</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692424</PhoneNumber>
+		<EmailID>Wockhardt.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Watermark</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21021</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692425</PhoneNumber>
+		<EmailID>Watermark.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Walmart</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21022</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692426</PhoneNumber>
+		<EmailID>Walmart.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Verndale</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21023</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692427</PhoneNumber>
+		<EmailID>Verndale.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Toyota</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21024</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692428</PhoneNumber>
+		<EmailID>Toyota.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>TCS</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21025</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692429</PhoneNumber>
+		<EmailID>TCS.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Swiss Bank</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21026</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692430</PhoneNumber>
+		<EmailID>Swiss Bank.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>State Grid</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21027</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692431</PhoneNumber>
+		<EmailID>State Grid.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>SQL</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21028</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692432</PhoneNumber>
+		<EmailID>SQL.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Senopec</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21029</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692433</PhoneNumber>
+		<EmailID>Senopec.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Santander Bank</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21030</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692434</PhoneNumber>
+		<EmailID>Santander Bank.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Samsung</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21031</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692435</PhoneNumber>
+		<EmailID>Samsung.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>PWC</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21032</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692436</PhoneNumber>
+		<EmailID>PWC.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Philips</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21033</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692437</PhoneNumber>
+		<EmailID>Philips.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>PayPal</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21034</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692438</PhoneNumber>
+		<EmailID>PayPal.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Oracle</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21035</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692439</PhoneNumber>
+		<EmailID>Oracle.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>NextWorth Solutions</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21036</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692440</PhoneNumber>
+		<EmailID>NextWorth Solutions.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Lenovo</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21037</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692441</PhoneNumber>
+		<EmailID>Lenovo.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Java</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21038</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692442</PhoneNumber>
+		<EmailID>Java.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>HCL</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21039</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692443</PhoneNumber>
+		<EmailID>HCL.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Google</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21040</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692444</PhoneNumber>
+		<EmailID>Google.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Gemvara</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21041</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692445</PhoneNumber>
+		<EmailID>Gemvara.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Euro-Pro Operating</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21042</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692446</PhoneNumber>
+		<EmailID>Euro-Pro Operating.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Dell</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21043</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692447</PhoneNumber>
+		<EmailID>Dell.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>DealerRater</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21044</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692448</PhoneNumber>
+		<EmailID>DealerRater.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Citi Bank</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21045</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692449</PhoneNumber>
+		<EmailID>Citi Bank.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Brafton</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21046</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692450</PhoneNumber>
+		<EmailID>Brafton.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Boston Interactive</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21047</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692451</PhoneNumber>
+		<EmailID>Boston Interactive.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Best Buy</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21048</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692452</PhoneNumber>
+		<EmailID>Best Buy.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Bank Of India</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21049</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692453</PhoneNumber>
+		<EmailID>Bank Of India.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Bank Of America</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21050</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692454</PhoneNumber>
+		<EmailID>Bank Of America.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Apple</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21051</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692455</PhoneNumber>
+		<EmailID>Apple.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Applause</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21052</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692456</PhoneNumber>
+		<EmailID>Applause.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Amazon</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21053</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692457</PhoneNumber>
+		<EmailID>Amazon.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>ALKU</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21054</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692458</PhoneNumber>
+		<EmailID>ALKU.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Acquia</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21055</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692459</PhoneNumber>
+		<EmailID>Acquia.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>Accenture</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21056</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692460</PhoneNumber>
+		<EmailID>Accenture.com</EmailID>
+	</SoldTo>
+	<SoldTo>
+		<Name>ABN Amro</Name>
+		<AddressLine1>B Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21057</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692461</PhoneNumber>
+		<EmailID>ABN Amro.com</EmailID>
+	</SoldTo>
+</data-set>

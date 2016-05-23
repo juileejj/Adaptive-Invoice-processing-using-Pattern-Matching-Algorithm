@@ -1,0 +1,9 @@
+<INVOICE>
+	<header>
+		<Invoice>1000</Invoice>
+		<TransmissionDate>2015-05-09</TransmissionDate>
+		<ControlNumber>1</ControlNumber>
+		<Sender>44556677</Sender>
+		<Receiver>11223344</Receiver>
+	</header>
+</INVOICE>		

@@ -1,0 +1,12 @@
+<InvoiceHeader>
+<SenderCode>123<SenderCode>
+<BilltoCode>66778899</BilltoCode>
+<PurchaseOrderNumber>PO123456</PurchaseOrderNumber>
+</InvoiceHeader>
+<Detail>
+<LineNumber>1</LineNumber>
+<ItemNumber>1<ItemNumber>
+<UnitOfMeasurement>ea</UnitOfMeasurement>
+<PricePerQuantity>12.00</PricePerQuantity>
+<Quantity>5</Quantity>
+</Detail>

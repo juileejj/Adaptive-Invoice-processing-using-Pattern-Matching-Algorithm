@@ -1,0 +1,84 @@
+<Invoice>
+	<header>
+		<DocumentType>INVOICE
+		<Inner>Hello<SubInner>Hello2<SubInnerInner></SubInnerInner></SubInner></Inner>
+		</DocumentType>
+		<DocumentVersion>1</DocumentVersion>
+		<Organization>ABN Amro</Organization>
+		<SupplierNumber>2150</SupplierNumber>
+		<InvoiceNumber>345678</InvoiceNumber>
+		<InvoiceDate>40787</InvoiceDate>
+	</header>
+	<SoldTo>
+		<Name>Wockhardt</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21020</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692424</PhoneNumber>
+		<EmailID>Wockhardt.com</EmailID>
+	</SoldTo>
+	<BillTo>
+		<Name>ABN Amro</Name>
+		<AddressLine1>A Street </AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>21057</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>6176692461</PhoneNumber>
+		<EmailID>ABN Amro.com</EmailID>
+	</BillTo>
+	<RemmitTo>
+		<Name>Bank Of America</Name>
+		<AddressLine1>ABC Street</AddressLine1>
+		<City>Boston</City>
+		<State>MA</State>
+		<Zipcode>26789</Zipcode>
+		<Country>USA</Country>
+		<PhoneNumber>857789324</PhoneNumber>
+		<EmailID>Bank Of America.com</EmailID>
+	</RemmitTo>
+	<InvoiceLineItem>
+		<InvoiceLineNumber>1002345</InvoiceLineNumber>
+		<POLineNumber>5000789</POLineNumber>
+		<Quantity>9643</Quantity>
+		<UnitofMeasure>Kg</UnitofMeasure>
+		<UnitPrice>50.1</UnitPrice>
+		<Description>abc</Description>
+		<GrossAmount>47345.2014</GrossAmount>
+		<NetAmount>483114.3</NetAmount>
+		<SalesTax>9.8</SalesTax>
+		<Weight>4569</Weight>
+	</InvoiceLineItem>
+	<InvoiceLineItem>
+		<InvoiceLineNumber>1002346</InvoiceLineNumber>
+		<POLineNumber>5000790</POLineNumber>
+		<Quantity>9644</Quantity>
+		<UnitofMeasure>Pound</UnitofMeasure>
+		<UnitPrice>50.2</UnitPrice>
+		<Description>def</Description>
+		<GrossAmount>47444.6224</GrossAmount>
+		<NetAmount>484128.8</NetAmount>
+		<SalesTax>9.8</SalesTax>
+		<Weight>4570</Weight>
+	</InvoiceLineItem>
+	<InvoiceLineItem>
+		<InvoiceLineNumber>1002347</InvoiceLineNumber>
+		<POLineNumber>5000791</POLineNumber>
+		<Quantity>9645</Quantity>
+		<UnitofMeasure>gm</UnitofMeasure>
+		<UnitPrice>50.3</UnitPrice>
+		<Description>ghi</Description>
+		<GrossAmount>47544.063</GrossAmount>
+		<NetAmount>485143.5</NetAmount>
+		<SalesTax>9.8</SalesTax>
+		<Weight>4571</Weight>
+	</InvoiceLineItem>
+	<OrderSummary>
+		<TotalInvoiceAmount>56000</TotalInvoiceAmount>
+		<TotalSalesTaxAmount>5000</TotalSalesTaxAmount>
+		<DiscountPercent>7.5</DiscountPercent>
+		<DiscountDueDate>40851</DiscountDueDate>
+	</OrderSummary>
+</Invoice>

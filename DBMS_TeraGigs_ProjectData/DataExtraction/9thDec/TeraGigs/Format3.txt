@@ -1,0 +1,51 @@
+<INVOICE>
+<Hdr>
+	<InvoiceNumber>1007</InvoiceNumber>
+	<ControlNumber>1</ControlNumber>
+	<TransmissionDate>2015-07-06</TransmissionDate>
+	<ReceiverCode>11223344</ReceiverCode>
+	<Sender>74556678</Sender>
+</Hdr>
+<InvoiceInf>
+	<Invoice>1007</Invoice>
+	<Sender>74556678</Sender>
+	<To>347657</To>
+	<Remarks>OK</Remarks>
+	<PurchaseOrder>74</PurchaseOrder>
+	<Date>2015-06-18</Date>
+</InvoiceInf>
+<Addr>
+	<sender>74556678</sender>
+	<address>15BSmith</address>
+	<zip>02130</zip>
+	<type>BillTo</type>
+    <phone>6175524359</phone>
+    <email>wgmailcom</email>
+</Addr>
+<Supplier>
+	<Sender>74556678</Sender>
+	<To>347657</To>
+	<Person>Prar</Person>
+	<Taxable>1</Taxable>
+	<Name>Jui</Name>
+</Supplier>
+<DetailInv>
+	<Invoice>1007</Invoice>
+	<LineNumber>4</LineNumber>
+	<ItemNumber>11</ItemNumber>
+	<QuantityItem>100</QuantityItem>
+	<PriceDetails>650000.00</PriceDetails>
+</DetailInv>
+<ItemInformation>
+	<Item>11</Item>
+	<PriceQuantity>65000.00</PriceQuantity>
+	<Unit>PC</Unit>
+</ItemInformation>
+<SummaryInformation>
+	<Invoice>1007</Invoice>
+	<Total>160000.00</Total>
+	<Tax>100.00</Tax>
+	<DiscountAmount>10.00</DiscountAmount>
+	<DueDate>2015-12-11</DueDate>
+</SummaryInformation>
+</INVOICE>		

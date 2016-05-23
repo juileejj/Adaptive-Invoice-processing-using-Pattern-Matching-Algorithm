@@ -1,0 +1,9 @@
+Table,address_mstr,column_mstr,detail,document_mstr,header_mstr,invoice_header,item_mstr,summary_mstr,supplier_mstr,table_mstr,zipcode_info
+Columns,,,,,,,,,,,
+,type,col_id,invoice_num,doc_id,transmission_date,invoice_num,item_number,invoice_num,sender_code,tbl_id,zip
+,sender_code,col_name,line_number,doc_name,invoice_num,sender_code,unit_of_measurement,invoice_total,ship_to,tbl_name,city
+,address_line,col_tab_id,item_number,,control_num,bil_lto_code,price_per_qty,total_tax,taxable,,state
+,zip,,quantity,,sender_code,purchase_order_number,,discount_pct,name,,country
+,phone,,line_price,,receiver_code,date,,discount_amount,salesperson,,
+,email,,,,invoice_header_number,remarks,,payment_duedate,,,
+,,,,,invoice_header_supplier,,,tax_pct,,,
